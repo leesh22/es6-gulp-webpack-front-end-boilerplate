@@ -13,17 +13,17 @@ git clone https://github.com/leesh22/es6-gulp-webpack-front-end-boilerplate.git
 
 ### Install dependencies
 ```
-npm install
+yarn install
 ```
 
 ### Run project
 ```
-npm run
+yarn start
 ```
 
 -------------------------
 
 ## Things to do/add:
 - [ ] Add unit test libary
-- [ ] Add lining
+- [ ] Add linting
 - [ ] Enviroment support
