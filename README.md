@@ -1,9 +1,8 @@
-# es6, Gulp, Webpack Boilerplate
-## Best for spike work and experimenting
+# ES6, Webpack 4 - Boilerplate
+## Best for spike work and experimenting (Enviroment support coming soon)
 
 Got a bit sick of doing this over and over again or spending time looking for other boileplates online.
 Feel free to use.
-
 
 -------------------------
 
@@ -25,5 +24,6 @@ npm run
 -------------------------
 
 ## Things to do/add:
-- [ ] Add test libary
-- [ ] Add test coverage
+- [ ] Add unit test libary
+- [ ] Add lining
+- [ ] Enviroment support

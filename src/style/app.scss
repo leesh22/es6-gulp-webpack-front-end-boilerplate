@@ -1,0 +1,11 @@
+$primary-color: teal;
+
+body {
+    color: $primary-color;
+    font-family:  Helvetica, Arial, Sans-Serif;
+
+    h3 {
+      font-weight: 100;
+      font-size: 30px;
+    }
+}
