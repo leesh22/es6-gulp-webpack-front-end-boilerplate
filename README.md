@@ -8,7 +8,7 @@ Feel free to use.
 
 ### Clone Repo
 ```
-git clone https://github.com/leesh22/es6-gulp-webpack-front-end-boilerplate.git
+git clone https://github.com/leesh22/es6-webpack4-boilerplate.git
 ```
 
 ### Install dependencies

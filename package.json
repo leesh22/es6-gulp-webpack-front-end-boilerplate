@@ -1,5 +1,5 @@
 {
-  "name": "es6-gulp-webpack-front-end-boilerplate",
+  "name": "es6-webpack4-boilerplate",
   "version": "1.0.0",
   "description": "Simple boilerplate for quick front-end experiments or projects",
   "main": "src/app/index.js",
@@ -9,13 +9,12 @@
   },
   "keywords": [
     "es6",
-    "webpack",
-    "gulp",
+    "webpack4",
     "sass"
   ],
   "author": "Alicia Collymore",
   "license": "ISC",
-  "repository": "https://github.com/leesh22/es6-gulp-webpack-front-end-boilerplate.git",
+  "repository": "https://github.com/leesh22/es6-webpack4-boilerplate.git",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.0.2",
