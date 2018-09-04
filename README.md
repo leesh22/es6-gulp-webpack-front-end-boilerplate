@@ -21,6 +21,7 @@ yarn install
 yarn start
 ```
 
+View at http://localhost:7700/
 -------------------------
 
 ## Things to do/add:
