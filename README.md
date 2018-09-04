@@ -22,8 +22,8 @@ yarn start
 ```
 
 View at http://localhost:7700/
--------------------------
 
+-------------------------
 ## Things to do/add:
 - [ ] Add unit test libary
 - [ ] Add linting
